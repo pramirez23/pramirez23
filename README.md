@@ -7,8 +7,8 @@ When I'm not coding, I love to spend my time rocking out on my guitar 🎸, coll
 
 Let's get in touch!
 * paulramireznyc@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/paul-ramirez-432786152/)
-* [Portfolio](https://www.paulramirez.dev/)
+* <a href="https://www.linkedin.com/in/paul-ramirez-432786152/" target="_blank">LinkedIn</a>
+* <a href="https://www.paulramirez.dev/" target="_blank">Portfolio</a>
 
 <!--
 **pramirez23/pramirez23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
